@@ -1,0 +1,81 @@
+{
+    "metadata": [
+        [
+            2, 
+            "GCF_001983325.1", 
+            "KBaseGenomes.Genome-9.0", 
+            "2018-10-16T17:54:54+0000", 
+            1, 
+            "djinnome", 
+            36975, 
+            "djinnome:narrative_1539712493683", 
+            "afa941f3900b097d26ba238453ee370e", 
+            36891593, 
+            {
+                "Assembly Object": "19217/263421/2", 
+                "Domain": "Eukaryota", 
+                "GC content": "0.38486", 
+                "Genetic code": "1", 
+                "MD5": "56be47c233f6393b01b83f6d9d6d61fc", 
+                "Name": "Pichia kudriavzevii", 
+                "Number contigs": "260", 
+                "Number of CDS": "5385", 
+                "Number of Protein Encoding Genes": "5385", 
+                "Size": "11679144", 
+                "Source": "RefSeq", 
+                "Source ID": "NW_018150434", 
+                "Taxonomy": "cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Saccharomycotina; Saccharomycetes; Saccharomycetales; Pichiaceae; Pichia"
+            }
+        ]
+    ], 
+    "provenance": [
+        {
+            "copied": "19217/263425/3", 
+            "copy_source_inaccessible": 0, 
+            "created": "2018-07-30T12:57:44+0000", 
+            "creator": "kbasedata", 
+            "epoch": 1532955464271, 
+            "extracted_ids": {
+                "handle": [
+                    "KBH_2619001"
+                ]
+            }, 
+            "info": [
+                2, 
+                "GCF_001983325.1", 
+                "KBaseGenomes.Genome-9.0", 
+                "2018-10-16T17:54:54+0000", 
+                1, 
+                "djinnome", 
+                36975, 
+                "djinnome:narrative_1539712493683", 
+                "afa941f3900b097d26ba238453ee370e", 
+                36891593, 
+                {
+                    "Assembly Object": "19217/263421/2", 
+                    "Domain": "Eukaryota", 
+                    "GC content": "0.38486", 
+                    "Genetic code": "1", 
+                    "MD5": "56be47c233f6393b01b83f6d9d6d61fc", 
+                    "Name": "Pichia kudriavzevii", 
+                    "Number contigs": "260", 
+                    "Number of CDS": "5385", 
+                    "Number of Protein Encoding Genes": "5385", 
+                    "Size": "11679144", 
+                    "Source": "RefSeq", 
+                    "Source ID": "NW_018150434", 
+                    "Taxonomy": "cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; saccharomyceta; Saccharomycotina; Saccharomycetes; Saccharomycetales; Pichiaceae; Pichia"
+                }
+            ], 
+            "orig_wsid": 19217, 
+            "path": [
+                "36975/2/1"
+            ], 
+            "provenance": [], 
+            "refs": [
+                "19217/263421/2", 
+                "12570/695962/1"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,811 @@
+;;;      ---  GenBank File Parse Results for Pichia kudriavzevii (Strain129 (Refseq))  ---
+;;;      ---  File: /Users/zuck016/ptools-local/pgdbs/user/strain129cyc/22.5/input/GCF_001983325.1_ASM198332v1_genomic.gbff
+;;;
+;;; This report lists warnings and possible problems that were encountered
+;;; by the GenBank parser used in PathoLogic.
+;;;
+;;; One type of potential problem reported is where a 'gene' feature
+;;; was present, without being followed by an additional feature (such as 'CDS')
+;;; that would have provided additional information about the gene product.
+;;; Potentially, these are erroneous omissions in the Genbank file,
+;;; because it is unclear what the product type should be.
+;;; However, solitary gene features commonly occur among pseudo-genes.
+;;;
+;;;
+;;; If you want to change GenBank annotation file(s) to improve their parsability, 
+;;; then update the files, reinitialize the KB, and re-run the Build.  If you want
+;;; to avoid having to reinitialize in the future, use the Trial Parse 
+;;; command until you are satisfied with the parse results, and only then
+;;; Build.
+
+
+;;;; :::::::: Parsing the genetic element NW_018150434 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150435 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150436 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150437 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150438 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150439 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150440 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150441 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150442 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150443 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150444 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150445 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150446 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150447 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150448 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150449 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150450 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150451 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150452 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150453 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150454 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150455 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150456 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150457 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150458 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150459 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150460 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150461 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150462 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150463 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150464 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150465 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150466 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150467 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150468 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150469 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150470 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150471 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150472 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150473 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150474 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150475 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150476 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150477 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150478 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150479 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150480 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150481 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150482 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150483 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150484 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150485 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150486 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150487 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150488 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150489 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150490 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150491 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150492 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150493 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150494 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150495 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150496 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150497 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150498 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150499 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150500 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150501 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150502 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150503 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150504 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150505 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150506 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150507 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150508 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150509 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150510 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150511 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150512 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150513 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150514 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150515 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150516 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150517 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150518 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150519 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150520 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150521 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150522 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150523 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150524 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150525 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150526 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150527 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150528 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150529 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150530 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150531 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150532 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150533 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150534 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150535 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150536 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150537 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150538 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150539 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150540 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150541 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150542 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150543 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150544 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150545 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150546 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150547 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150548 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150549 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150550 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150551 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150552 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150553 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150554 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150555 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150556 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150557 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150558 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150559 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150560 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150561 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150562 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150563 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150564 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150565 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150566 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150567 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150568 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150569 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150570 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150571 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150572 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150573 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150574 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150575 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150576 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150577 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150578 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150579 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150580 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150581 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150582 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150583 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150584 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150585 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150586 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150587 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150588 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150589 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150590 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150591 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150592 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150593 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150594 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150595 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150596 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150597 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150598 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150599 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150600 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150601 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150602 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150603 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150604 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150605 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150606 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150607 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150608 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150609 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150610 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150611 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150612 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150613 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150614 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150615 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150616 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150617 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150618 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150619 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150620 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150621 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150622 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150623 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150624 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150625 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150626 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150627 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150628 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150629 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150630 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150631 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150632 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150633 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150634 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150635 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150636 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150637 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150638 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150639 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150640 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150641 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150642 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150643 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150644 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150645 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150646 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150647 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150648 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150649 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150650 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150651 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150652 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150653 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150654 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150655 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150656 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150657 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150658 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150659 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150660 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150661 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150662 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150663 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150664 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150665 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150666 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150667 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150668 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150669 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150670 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150671 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150672 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150673 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150674 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150675 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150676 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150677 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150678 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150679 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150680 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150681 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150682 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150683 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150684 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150685 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150686 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150687 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150688 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150689 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150690 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150691 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150692 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element NW_018150693 ::::::::
+
+
+;;;; :::::::: Ignored gene features and qualifiers ::::::::
+
+The Genbank file contains these additional features,
+which have not been processed:
+(mRNA)
+The Genbank file contains these additional feature qualifiers,
+which have not been processed:
+(/translation= /codon_start= /transcript_id= /strain= /mol_type=
+ /organism=)
+
